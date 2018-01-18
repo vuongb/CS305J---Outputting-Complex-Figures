@@ -1,0 +1,13 @@
+import java.awt.*;
+public class Drawing3 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		DrawingPanel panel = new DrawingPanel(550,450);
+
+	}
+
+}
